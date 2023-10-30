@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "URL Opener",
+    "description": "Opens a list of URLs in separate tabs",
+    "version": "1.0",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

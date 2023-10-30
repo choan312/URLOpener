@@ -1,0 +1,27 @@
+
+Fix Errors
+Styling
+Publishing
+
+
+
+
+
+
+How do i publish a chrome extension?
+
+To publish a Chrome extension, you'll need to follow these steps:
+
+1. Make sure your extension is in compliance with the Chrome Web Store's Developer Program Policies
+2. Create a new account or log in to the Chrome Developer Dashboard
+3. Click on the "Add new item" button on the dashboard
+4. Fill out the required information, including a detailed description of the extension, screenshots, and at least one 128x128 icon.
+5. Select the "Packaged" option and upload your extension in the form of a .zip file.
+6. Once the extension is uploaded, it will be reviewed by Google. This process can take several days.
+7. Once your extension is approved, it will be available for download from the Chrome Web Store.
+
+Please keep in mind that publishing an extension to the Chrome Web Store has a one-time fee of $5 USD and you will be responsible
+for keeping your extension updated and in compliance with the Chrome Web Store's policies.
+
+Also, you can use Chrome developer dashboard for test and development purpose, by installing the extension to your browser via the
+developer dashboard, you can also share the extension with other people by adding them as testers.
